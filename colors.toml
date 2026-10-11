@@ -1,0 +1,61 @@
+# Sea Glass · Tide Pool
+# Frosted beach glass glowing on wet slate after sundown.
+# Palette sampled from a tray of frosted sea glass in low sun.
+
+mode = "dark"
+
+accent = "#7fd4b0"  # seafoam
+selection = "#21393c"
+muted = "#5a7476"
+
+background = "#0f1a1d"
+dark_background = "#0b1517"
+darker_background = "#071012"
+lighter_background = "#162629"
+
+foreground = "#c9d9d3"
+dark_foreground = "#7e9894"
+light_foreground = "#dde8e3"
+bright_foreground = "#f0f6f2"
+
+red = "#ee8b80"  # coral, the rare red piece
+yellow = "#f0c46e"  # honey amber
+orange = "#eba25d"  # amber
+green = "#72c48a"  # kelly glass
+cyan = "#5dcfe0"  # turquoise
+blue = "#7ea9f0"  # cobalt
+magenta = "#c4a7e8"  # lavender / amethyst
+brown = "#a8714f"  # root beer
+
+bright_red = "#f6aba2"
+bright_yellow = "#f6d898"
+bright_green = "#b9dc86"  # lime / chartreuse
+bright_cyan = "#96e3ea"  # aqua
+bright_blue = "#a9c6f6"  # cornflower
+bright_magenta = "#dcc9f1"  # lavender frost
+
+# Omarchy 3.x reads these legacy names directly; Omarchy 4 derives the same values
+# from the keys above, so both versions see one palette.
+cursor = "#f0f6f2"
+selection_foreground = "#f0f6f2"
+selection_background = "#21393c"
+color0 = "#0f1a1d"
+color1 = "#ee8b80"
+color2 = "#72c48a"
+color3 = "#f0c46e"
+color4 = "#7ea9f0"
+color5 = "#c4a7e8"
+color6 = "#5dcfe0"
+color7 = "#c9d9d3"
+color8 = "#5a7476"
+color9 = "#f6aba2"
+color10 = "#b9dc86"
+color11 = "#f6d898"
+color12 = "#a9c6f6"
+color13 = "#dcc9f1"
+color14 = "#96e3ea"
+color15 = "#f0f6f2"
+
+# Window border: light refracting through seafoam, turquoise and cobalt glass.
+hyprland_active_border = "rgba(8fd8b8ee) rgba(5dcfe0ee) rgba(7ea9f0ee) 45deg"
+hyprland_inactive_border = "rgba(2a3f42aa)"

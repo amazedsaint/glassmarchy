@@ -1,0 +1,26 @@
+/* Sea Glass · Tide Pool · Walker launcher (Omarchy 3.x) */
+@define-color selected-text #7fd4b0;
+@define-color text #c9d9d3;
+@define-color base #0f1a1d;
+@define-color border #7fd4b0;
+@define-color foreground #c9d9d3;
+@define-color background #0f1a1d;
+
+window .box-wrapper {
+  background: alpha(@base, 0.88);
+  border: 1px solid alpha(@border, 0.55);
+  border-radius: 14px;
+}
+
+window .search-container {
+  background: transparent;
+}
+
+window .list child {
+  border-radius: 9px;
+  transition: background-color 180ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+window .list child:selected {
+  background: alpha(@selected-text, 0.14);
+}

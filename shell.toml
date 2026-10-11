@@ -1,0 +1,137 @@
+# Sea Glass · Tide Pool · Omarchy shell surfaces
+# Frosted-glass cards: translucent fills (Hyprland blurs them when the theme's
+# hyprland.lua is active), a sea-glass gradient edge, and glass-tinted selection.
+
+[bar]
+background       = "#0f1a1d"
+background-alpha = 0.82
+text             = "#c9d9d3"
+active           = "#ee8b80"
+scale-with-font  = true
+size-horizontal  = 26
+size-vertical    = 28
+
+[hyprland]
+active-border            = "rgba(8fd8b8ee) rgba(5dcfe0ee) rgba(7ea9f0ee) 45deg"
+active-border-foreground = "rgba(8fd8b8ee) rgba(5dcfe0ee) rgba(7ea9f0ee) 45deg"
+
+[controls]
+normal-color        = "#c9d9d3"
+normal-fill-alpha   = 0.05
+normal-border       = "#c9d9d3"
+normal-border-width = 1
+normal-border-alpha = 0.22
+
+hover-cursor-color        = "#7fd4b0"
+hover-cursor-fill-alpha   = 0.1
+hover-cursor-border       = "#7fd4b0"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.45
+
+focus-color        = "#7fd4b0"
+focus-fill-alpha   = 0.1
+focus-border       = "rgba(8fd8b8ee) rgba(5dcfe0ee) rgba(7ea9f0ee) 45deg"
+focus-border-width = 1
+focus-border-alpha = 0.85
+
+selected-color        = "#7fd4b0"
+selected-fill-alpha   = 0.18
+selected-border       = "#7fd4b0"
+selected-border-width = 0
+selected-border-alpha = 1.0
+
+pressed-fill-alpha   = 0.26
+selection-fill-alpha = 0.35
+
+[spacing]
+scale = 1.0
+scale-with-font = true
+
+[font]
+base-size = 12
+
+[popups]
+background       = "#0f1a1d"
+background-alpha = 0.9
+text             = "#c9d9d3"
+border           = "hyprland.active-border"
+border-alpha     = 0.85
+
+[tooltip]
+background       = "#162629"
+background-alpha = 0.94
+text             = "#dde8e3"
+border           = "#7fd4b0"
+border-alpha     = 0.40
+
+[notifications]
+background       = "#0f1a1d"
+background-alpha = 0.9
+text             = "#c9d9d3"
+border           = "hyprland.active-border"
+border-alpha     = 0.90
+countdown        = "#7fd4b0"
+
+[launcher]
+background                = "#0f1a1d"
+background-alpha          = 0.88
+text                      = "#c9d9d3"
+border                    = "hyprland.active-border"
+border-alpha              = 0.75
+scrim                     = "#071012"
+scrim-alpha               = 0.32
+selected-background       = "#7fd4b0"
+selected-background-alpha = 0.14
+selected-text             = "#7fd4b0"
+selected-border           = "#7fd4b0"
+selected-border-alpha     = 0.9
+selected-border-width     = "0 0 0 3"
+
+[menu]
+background                = "#0f1a1d"
+background-alpha          = 0.9
+text                      = "#c9d9d3"
+border                    = "hyprland.active-border"
+border-alpha              = 0.75
+scrim                     = "#071012"
+scrim-alpha               = 0.32
+selected-background       = "#7fd4b0"
+selected-background-alpha = 0.14
+selected-text             = "#7fd4b0"
+selected-border           = "#7fd4b0"
+selected-border-alpha     = 0.9
+selected-border-width     = "0 0 0 3"
+
+[polkit]
+background       = "#0f1a1d"
+background-alpha = 0.94
+text             = "#c9d9d3"
+text-error       = "#ee8b80"
+border           = "hyprland.active-border"
+border-error     = "#ee8b80"
+border-alpha     = 1.0
+scrim            = "#071012"
+scrim-alpha      = 0.45
+accent           = "#7fd4b0"
+
+[lock]
+background       = "#0f1a1d"
+background-alpha = 0.58
+text             = "#f0f6f2"
+placeholder      = "#7f8d8a"
+text-error       = "#ee8b80"
+border           = "hyprland.active-border"
+border-active    = "rgba(5dcfe0ff) rgba(8fd8b8ff) rgba(7ea9f0ff) 135deg"
+border-error     = "#ee8b80"
+border-alpha     = 1.0
+selection        = "#7fd4b0"
+selection-alpha  = 0.45
+
+[image-picker]
+scrim                   = "#071012"
+scrim-alpha             = 0.55
+text                    = "#c9d9d3"
+selected-border         = "#7fd4b0"
+selected-border-alpha   = 1.0
+unselected-border       = "#c9d9d3"
+unselected-border-alpha = 0.22

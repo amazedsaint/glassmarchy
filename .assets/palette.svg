@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="778" height="460" viewBox="0 0 778 460" role="img" aria-label="Sea Glass palettes for Tide Pool and Sunlit">
+<rect x="0" y="0" width="778" height="222" rx="16" fill="#0f1a1d"/>
+<text x="24" y="30" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:14px;font-weight:700" fill="#f0f6f2">Tide Pool · dark</text>
+<rect x="24" y="44" width="74" height="46" rx="10" fill="#0f1a1d" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="26" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">bg</text>
+<text x="26" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#0f1a1d</text>
+<rect x="106" y="44" width="74" height="46" rx="10" fill="#162629" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="108" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">surface</text>
+<text x="108" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#162629</text>
+<rect x="188" y="44" width="74" height="46" rx="10" fill="#21393c" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="190" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">selection</text>
+<text x="190" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#21393c</text>
+<rect x="270" y="44" width="74" height="46" rx="10" fill="#5a7476" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="272" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">muted</text>
+<text x="272" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#5a7476</text>
+<rect x="352" y="44" width="74" height="46" rx="10" fill="#c9d9d3" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="354" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">fg</text>
+<text x="354" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#c9d9d3</text>
+<rect x="434" y="44" width="74" height="46" rx="10" fill="#f0f6f2" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="436" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">bright</text>
+<text x="436" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#f0f6f2</text>
+<rect x="516" y="44" width="74" height="46" rx="10" fill="#7fd4b0" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="518" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">accent</text>
+<text x="518" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#7fd4b0</text>
+<rect x="598" y="44" width="74" height="46" rx="10" fill="#ee8b80" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="600" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">coral</text>
+<text x="600" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#ee8b80</text>
+<rect x="680" y="44" width="74" height="46" rx="10" fill="#eba25d" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="682" y="105" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">amber</text>
+<text x="682" y="118" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#eba25d</text>
+<rect x="24" y="130" width="74" height="46" rx="10" fill="#f0c46e" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="26" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">honey</text>
+<text x="26" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#f0c46e</text>
+<rect x="106" y="130" width="74" height="46" rx="10" fill="#72c48a" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="108" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">kelly</text>
+<text x="108" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#72c48a</text>
+<rect x="188" y="130" width="74" height="46" rx="10" fill="#5dcfe0" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="190" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">turquoise</text>
+<text x="190" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#5dcfe0</text>
+<rect x="270" y="130" width="74" height="46" rx="10" fill="#7ea9f0" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="272" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">cobalt</text>
+<text x="272" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#7ea9f0</text>
+<rect x="352" y="130" width="74" height="46" rx="10" fill="#c4a7e8" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="354" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">lavender</text>
+<text x="354" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#c4a7e8</text>
+<rect x="434" y="130" width="74" height="46" rx="10" fill="#a8714f" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="436" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">root beer</text>
+<text x="436" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#a8714f</text>
+<rect x="516" y="130" width="74" height="46" rx="10" fill="#b9dc86" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="518" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">lime</text>
+<text x="518" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#b9dc86</text>
+<rect x="598" y="130" width="74" height="46" rx="10" fill="#96e3ea" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="600" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">aqua</text>
+<text x="600" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#96e3ea</text>
+<rect x="680" y="130" width="74" height="46" rx="10" fill="#a9c6f6" stroke="#c9d9d3" stroke-opacity="0.16"/>
+<text x="682" y="191" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#c9d9d3">cornflower</text>
+<text x="682" y="204" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#7e9894">#a9c6f6</text>
+<rect x="0" y="238" width="778" height="222" rx="16" fill="#f3f4ee"/>
+<text x="24" y="268" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:14px;font-weight:700" fill="#0f2328">Sunlit · light</text>
+<rect x="24" y="282" width="74" height="46" rx="10" fill="#f3f4ee" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="26" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">bg</text>
+<text x="26" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#f3f4ee</text>
+<rect x="106" y="282" width="74" height="46" rx="10" fill="#e6e9e0" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="108" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">surface</text>
+<text x="108" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#e6e9e0</text>
+<rect x="188" y="282" width="74" height="46" rx="10" fill="#cfe4da" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="190" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">selection</text>
+<text x="190" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#cfe4da</text>
+<rect x="270" y="282" width="74" height="46" rx="10" fill="#8a9792" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="272" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">muted</text>
+<text x="272" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#8a9792</text>
+<rect x="352" y="282" width="74" height="46" rx="10" fill="#24363b" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="354" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">fg</text>
+<text x="354" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#24363b</text>
+<rect x="434" y="282" width="74" height="46" rx="10" fill="#0f2328" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="436" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">bright</text>
+<text x="436" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#0f2328</text>
+<rect x="516" y="282" width="74" height="46" rx="10" fill="#0f7686" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="518" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">accent</text>
+<text x="518" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#0f7686</text>
+<rect x="598" y="282" width="74" height="46" rx="10" fill="#bb3f36" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="600" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">coral</text>
+<text x="600" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#bb3f36</text>
+<rect x="680" y="282" width="74" height="46" rx="10" fill="#a85816" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="682" y="343" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">amber</text>
+<text x="682" y="356" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#a85816</text>
+<rect x="24" y="368" width="74" height="46" rx="10" fill="#8a5f00" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="26" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">honey</text>
+<text x="26" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#8a5f00</text>
+<rect x="106" y="368" width="74" height="46" rx="10" fill="#257a40" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="108" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">kelly</text>
+<text x="108" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#257a40</text>
+<rect x="188" y="368" width="74" height="46" rx="10" fill="#0c7488" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="190" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">turquoise</text>
+<text x="190" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#0c7488</text>
+<rect x="270" y="368" width="74" height="46" rx="10" fill="#2a53c4" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="272" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">cobalt</text>
+<text x="272" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#2a53c4</text>
+<rect x="352" y="368" width="74" height="46" rx="10" fill="#8a54b6" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="354" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">lavender</text>
+<text x="354" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#8a54b6</text>
+<rect x="434" y="368" width="74" height="46" rx="10" fill="#7a4428" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="436" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">root beer</text>
+<text x="436" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#7a4428</text>
+<rect x="516" y="368" width="74" height="46" rx="10" fill="#5a8e1e" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="518" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">lime</text>
+<text x="518" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#5a8e1e</text>
+<rect x="598" y="368" width="74" height="46" rx="10" fill="#128aa5" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="600" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">aqua</text>
+<text x="600" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#128aa5</text>
+<rect x="680" y="368" width="74" height="46" rx="10" fill="#4072dd" stroke="#24363b" stroke-opacity="0.16"/>
+<text x="682" y="429" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10.5px" fill="#24363b">cornflower</text>
+<text x="682" y="442" style="font-family:'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace;font-size:10px" fill="#64736f">#4072dd</text>
+</svg>
